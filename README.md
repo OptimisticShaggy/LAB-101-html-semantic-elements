@@ -4,7 +4,7 @@ Semantics have made their way into HTML. It's actually refreshing to know consid
 
 There are more Semantics than the picture above such as:
 - ```<figure> and <figcaption>```: ```<figcaption>``` is used inside ```<figure>``` as a caption for a figure.
-- ```<main>```/```<section>```/```<article>```
+- ```<main>```/```<article>```/```<section>```/
 - ```<mark>```: Highlights or *marks* part of text.
 - ```<summary>```: A visible heading for details.
 - ```<time>```: Used to tell the time according to the user's location.
